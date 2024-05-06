@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "152917396937",
+    "firebase_url": "https://e-commerce-e5b73-default-rtdb.firebaseio.com",
+    "project_id": "e-commerce-e5b73",
+    "storage_bucket": "e-commerce-e5b73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152917396937:android:11c06ffba7b41e3ef7ac18",
+        "android_client_info": {
+          "package_name": "com.mohamad.tahiri.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dfdPYdmDBHQCJToex9xvwhfNXrPJTTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152917396937:android:32bc9429e234f93bf7ac18",
+        "android_client_info": {
+          "package_name": "com.mohamad.tahiri.e_commerce_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dfdPYdmDBHQCJToex9xvwhfNXrPJTTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152917396937:android:75af0ec7a3bb12d0f7ac18",
+        "android_client_info": {
+          "package_name": "com.mohamad.tahiri.e_commerceadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152917396937-ak2uv772nqt9p4pvt470k88e084lplc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamad.tahiri.e_commerceadmin",
+            "certificate_hash": "fd480bc0ec9d7dff9a2ead305b993b66216c2ea1"
+          }
+        },
+        {
+          "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dfdPYdmDBHQCJToex9xvwhfNXrPJTTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152917396937:android:caa2c6a3e65b1034f7ac18",
+        "android_client_info": {
+          "package_name": "com.sample.jetbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152917396937-at5as0t2gl1n4gjphavr26bojlqj70mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sample.jetbooks",
+            "certificate_hash": "fd480bc0ec9d7dff9a2ead305b993b66216c2ea1"
+          }
+        },
+        {
+          "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dfdPYdmDBHQCJToex9xvwhfNXrPJTTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152917396937-7371stlrlrq1ei26ff09mrmr1f2tb20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
